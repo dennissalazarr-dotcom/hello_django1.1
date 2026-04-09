@@ -1,0 +1,1 @@
+# hello_django1.1
